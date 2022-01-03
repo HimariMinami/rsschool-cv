@@ -1,0 +1,76 @@
+body {
+    max-width: 1200px;
+    min-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: rgb(153, 196, 153);
+    font-family: "Lucida Sans", Verdana, Helvetica, sans-serif;
+  }
+  
+  .nav-container {
+    display: flex;
+    flex-flow: row wrap;
+    min-height: 30px;
+    justify-content: flex-end;
+  }
+  
+  .navbar {
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    min-width: 1200px;
+    justify-content: space-around;
+  }
+  
+  .navbar li {
+    display: flex;
+  }
+  
+  .navbar li {
+    display: flex;
+    min-width: min-content;
+    font-size: 18px;
+  }
+  
+  .photo-name {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-flow: row wrap;
+    align-content: flex-start;
+    min-height: 160px;
+  }
+  .photo-name div {
+    min-width: 320px;
+  }
+  
+  .avatar {
+    height: 160px;
+    width: 160px;
+    border-radius: 100%;
+  }
+  
+  .part-line {
+    border: none;
+    background-color: greenyellow;
+    color: greenyellow;
+    height: 2.5px;
+  }
+  
+  .main-container {
+    display: flex;
+    flex-flow: row wrap;
+    min-height: 200px;
+  }
+  
+  .main-container div {
+    display: flex;
+  }
+  
+  .left-stuff {
+    width: 350px;
+  }
+  
+  .right-stuff {
+    width: 850px;
+  }  
