@@ -53,3 +53,8 @@ function printWordToScreen(){
     + Learn the Command Line Course (september 2019)
 * **Rolling Scopes School** 
     + JavaScript/Frontend course (december 2021 - now)
+
+## Languages
+* English - A2+
+* Russian - Native
+* Belarusian - Native
