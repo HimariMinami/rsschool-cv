@@ -34,8 +34,22 @@ function printWordToScreen(){
 }
 ```
 ## Experience
-**Compit Expert** (december 2018 - december 2021) 
-    * Functional and load testing of web applications
-    * Development of test documentation
-    * Regression, integration and acceptance testing
-    * Documentation testing
+* **Compit Expert** (december 2018 - december 2021) 
+    + Functional and load testing of web applications
+    + Development of test documentation
+    + Regression, integration and acceptance testing
+    + Documentation testing
+
+## Education
+* **Belarusian State University of Informatics and Radioelectronics**
+    + Quality management and software testing (september 2014 - june 2018)
+* **Universarium (Wargaming)**
+    + Game Design: Beyond the Game (april 2019)
+* **Stepik**
+    + Software Testing: Preparing for ISTQB Foundation Certification (august 2019)
+* **Stepik**
+    + Test automation with Selenium and Python (september 2019)
+* **Codeacademy**
+    + Learn the Command Line Course (september 2019)
+* **Rolling Scopes School** 
+    + JavaScript/Frontend course (december 2021 - now)
