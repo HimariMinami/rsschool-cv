@@ -7,19 +7,20 @@ body {
     font-family: "Lucida Sans", Verdana, Helvetica, sans-serif;
   }
   
-  .nav-container {
+  .navbar {
     display: flex;
     flex-flow: row wrap;
     min-height: 30px;
     justify-content: flex-end;
   }
   
-  .navbar {
+  .nav-links {
     list-style: none;
     display: flex;
     flex-flow: row wrap;
-    min-width: 1200px;
+    min-width: 700px;
     justify-content: space-around;
+    align-items: center;
   }
   
   .navbar li {
@@ -73,4 +74,19 @@ body {
   
   .right-stuff {
     width: 850px;
-  }  
+    word-wrap: break-word;
+  }
+  
+  A IMG {
+    border: none;
+  }
+
+  .course_src{
+    width: 150px;
+    height: 80px;
+    float: right;
+  }
+
+  .footer_href{
+    font-size: 18px;
+  }
