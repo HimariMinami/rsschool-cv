@@ -42,7 +42,7 @@ body {
     min-height: 160px;
   }
   .photo-name div {
-    min-width: 320px;
+    min-width: 350px;
   }
   
   .avatar {
@@ -75,6 +75,7 @@ body {
   .right-stuff {
     width: 850px;
     word-wrap: break-word;
+    line-height: 1.5;
   }
   
   A IMG {
@@ -88,5 +89,11 @@ body {
   }
 
   .footer_href{
+    font-size: 18px;
+  }
+
+  .code{
+    padding: 0;
+    margin: 0;
     font-size: 18px;
   }
